@@ -1,0 +1,2 @@
+Dominio: empresa.com.ar
+Recordar: verificar datos FTP
