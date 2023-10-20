@@ -29,6 +29,7 @@ body {
     padding: 0.4em;
     text-decoration: none;
     color: #eee;
+    font-variant: small-caps;
 }
 
 .nav-bar__link:hover {
