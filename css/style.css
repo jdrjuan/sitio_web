@@ -6,3 +6,23 @@ body {
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
+.nav-bar {
+    border: 4px solid #333;
+}
+
+.nav-bar__list {
+    border: 2px solid red;
+    margin: 10px;
+    /* margin: 0; */
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.nav-bar__list-item {
+    border: 3px solid blue;
+    
+}
+
