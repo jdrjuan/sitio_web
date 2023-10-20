@@ -30,6 +30,7 @@ body {
     text-decoration: none;
     color: #eee;
     font-variant: small-caps;
+    font-family: Verdana, Geneva, sans-serif;
 }
 
 .nav-bar__link:hover {
