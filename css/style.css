@@ -29,10 +29,13 @@ body {
     padding: 0.4em;
     text-decoration: none;
     color: #eee;
+    font-variant: small-caps;
+    font-family: Verdana, Geneva, sans-serif;
 }
 
 .nav-bar__link:hover {
     background-color: #222;
     color: #f7f7f7;
+    text-decoration: underline;
 }
 
