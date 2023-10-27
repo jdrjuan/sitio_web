@@ -41,3 +41,8 @@ body {
     text-decoration: underline;
 }
 
+article.product {
+    border: 1px solid #aaa;
+    padding: 1em;
+    margin-bottom: 1em;
+}
