@@ -7,6 +7,14 @@ body {
     color: #222;
 }
 
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 .nav-bar {
     background-color: #272727;
     font-size: 1.15em;
