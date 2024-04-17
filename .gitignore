@@ -1,0 +1,11 @@
+# Directorios
+temp/
+tmp/
+logs/
+log/
+node_modules/
+
+# Archivos
+config.dev
+config-db.dev
+anotaciones.txt
